@@ -38,7 +38,7 @@ There are several prompting formats and types of memories. I explain handful of 
     <a href="https://youtu.be/gNXBp3wttFU">Chatbot With Memory (Stateful) Using LangChain and Huggingface LLMs - Python</a>
     <br>
     <br>
-    <a href="https://youtu.be/6XeTk8cZUsM">
+    <a href="https://youtu.be/gNXBp3wttFU">
         <img src="./assets/thumbnail.png" height="85%" width="85%%"/>
     </a>
 </div>
